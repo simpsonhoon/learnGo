@@ -9,6 +9,7 @@
   3. 주문자는 신뢰있는 주문과 배달까지를 원합니다. 피주문자는 주문내역을 관리하고 원할한 서비스를 제공
 
 -프로젝트 구성
+![image](https://user-images.githubusercontent.com/65848709/209455977-7bea30a7-e193-4790-a20e-6d1112d96c8d.png)
 
 /oos
     ├── conf
