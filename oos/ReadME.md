@@ -87,3 +87,5 @@
 
   > API Tester 에서 기능에 맞게 해당 함수 실행
   
+  ex)
+  ![스크린샷 2022-12-25 12-28-39](https://user-images.githubusercontent.com/65848709/209456117-51f6a8db-8c72-4ae4-b968-943a8ec3fad7.png)
