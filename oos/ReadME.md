@@ -10,8 +10,8 @@
 
 -프로젝트 구성
   
-  
 ![image](https://user-images.githubusercontent.com/65848709/209455977-7bea30a7-e193-4790-a20e-6d1112d96c8d.png)
+
 
    
 -기술 스택
@@ -80,3 +80,10 @@
       - 금일 추천 메뉴 설정 변경, 리스트 출력
       - 성공 여부를 리턴
     
+  
+  - 사용 방법
+
+  ![스크린샷 2022-12-25 12-26-14](https://user-images.githubusercontent.com/65848709/209456086-32b8a03c-12d7-4182-98af-2008de4f31fc.png)
+
+  > API Tester 에서 기능에 맞게 해당 함수 실행
+  
