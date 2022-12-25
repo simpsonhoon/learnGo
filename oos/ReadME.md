@@ -9,35 +9,17 @@
   3. 주문자는 신뢰있는 주문과 배달까지를 원합니다. 피주문자는 주문내역을 관리하고 원할한 서비스를 제공
 
 -프로젝트 구성
+  
+  
 ![image](https://user-images.githubusercontent.com/65848709/209455977-7bea30a7-e193-4790-a20e-6d1112d96c8d.png)
 
-/oos
-    ├── conf
-    │   ├── config.go
-    │   └── config.toml
-    ├── controller
-    │   └── controller.go
-    ├── go.mod
-    ├── go.sum
-    ├── logger
-    │   └── logger.go
-    ├── logs
-    │   └── oos_2022-12-25.log
-    ├── docs
-    │   ├── docs.go
-    │   ├── swagger.json
-    │   └── swagger.yaml
-    ├── main.go
-    ├── model
-    │   └── model.go
-    ├── router
-    │   └── router.go
-    ├── run
-    └── util
-    ```
    
 -기술 스택
-   Golang, Gin Framework, RESTful, MVC패턴, MongoDB, Query , Swagger, API Tester
+  
+ ![image](https://user-images.githubusercontent.com/65848709/209456025-dc86f5c1-191d-4f56-a520-2263ff1f4e96.png)
+
+
+   
    
 -기능 설명
    
