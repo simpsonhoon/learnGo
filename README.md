@@ -1,2 +1,2 @@
-# learnGo
-Go 언어 공부하고 배운 것 기록..
+## learnGo
+golang 을 공부하며 배운 내용 기록 중 :)
